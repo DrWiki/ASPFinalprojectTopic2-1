@@ -1,10 +1,10 @@
 ## **User Guide for tactile sensing dataset**--edit by Zenan
 > This document can help you have a quick access to the tactile sensing dataset built up by **TBSI-SSR group**.
 
-  - ### 1. Download the dataset from the link [1].
+  - ### 1. Download the dataset from the link [1] in 2.1.
     <img src=./pics/01.png width=100% />
 
-  - ### 2. Download the data preprocess source code from [2].
+  - ### 2. Download the data preprocess source code from [2] in 2.1.
     <img src=./pics/02.png width=100% />
 
   - ### 3. Unzip the three datasets and code and place them like the figure below.
